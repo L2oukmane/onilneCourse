@@ -253,18 +253,14 @@ body {
   height: 91px;
   padding: 15px;
   color: #fff;
-  background: linear-gradient(
-    97.87deg,
-    #6b22b6 -9.19%,
-    #a126 69 40.96%,
-    #f30a0a 106%
-  );
+  background: transparent;
   font-family: "constantina", serif;
   font-size: 20px;
 }
 
 .btn-2:active {
-  background: transparent;
+  background: #fff;
+  color: red;
 }
 
 .section4 {
